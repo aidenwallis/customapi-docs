@@ -46,6 +46,9 @@ const siteConfig = {
   // If you have users set above, you add it here:
   users,
 
+  gaGtag: true,
+  gaTrackingId: 'UA-124635838-2',
+
   /* path to images for header/footer */
   headerIcon: null,
   footerIcon: 'img/footer-logo.png',
