@@ -1,7 +1,7 @@
 ---
 id: to-name
-title: Username to Twitch Name
-sidebar_label: Username to Twitch Name
+title: Twitch ID to Twitch Name
+sidebar_label: Twitch ID to Twitch Name
 ---
 
 Convert a Twitch ID to their corresponding Twitch username.
