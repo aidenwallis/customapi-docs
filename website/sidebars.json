@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "General": ["intro"],
+    "Twitch": ["twitch/uptime", "twitch/game", "twitch/title", "twitch/to-id", "twitch/to-name", "twitch/bot-status"],
+    "Emotes": ["emotes/bttv", "emotes/ffz", "emotes/twitch"],
+    "YouTube": ["youtube/latest"],
+    "Miscellaneous": ["misc/8ball", "misc/coinflip", "misc/weather"],
+    "Fortnite": [
+      "fortnite/duowin_current", "fortnite/duowin_total", "fortnite/solowin_current", "fortnite/solowin_total",
+      "fortnite/squadwin_current", "fortnite/squadwin_total", "fortnite/win_ratio", "fortnite/wins_current",
+      "fortnite/wins_today", "fortnite/wins_total"
+    ]
+  }
+}

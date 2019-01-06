@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://customapi-backend.aidenwallis.co.uk/:splat"
+  status = 200

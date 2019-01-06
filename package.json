@@ -1,0 +1,11 @@
+{
+  "name": "customapi-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aidenwallis/customapi-docs.git",
+  "author": "Aiden Wallis <aiden@aidenwallis.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "docusaurus": "^1.6.2"
+  }
+}
