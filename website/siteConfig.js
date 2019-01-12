@@ -38,6 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
+    {href: 'https://github.com/aidenwallis/customapi', label: 'Github'},
     {href: 'https://fossabot.com/donate', label: 'Donate to support costs'},
     {doc: 'intro', label: 'Documentation'},
     // {blog: true, label: 'Blog'},
@@ -57,7 +58,7 @@ const siteConfig = {
   /* Colors for website */
   colors: {
     primaryColor: '#1b1d20',
-    secondaryColor: '#205C3B',
+    secondaryColor: '#0f0f10',
   },
 
   /* Custom fonts for website */
