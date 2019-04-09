@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "http://customapi-backend.aidenwallis.co.uk/:splat"
+  to = "https://customapi-backend.aidenwallis.co.uk/:splat"
   status = 200
